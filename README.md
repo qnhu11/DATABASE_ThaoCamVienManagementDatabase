@@ -1,6 +1,7 @@
 # Thao Cam Vien Management System
 ## 📌 Giới thiệu chung
 Thao Cam Vien Management System là một hệ thống được thiết kế nhằm hỗ trợ công tác quản lý toàn diện tại Thảo Cầm Viên Sài Gòn. Dự án tập trung số hóa thông tin về động – thực vật, nhân sự, tài chính và các hoạt động giải trí, từ đó góp phần nâng cao hiệu quả quản lý, tối ưu vận hành và cải thiện trải nghiệm của khách tham quan.
+Link EER, 3NF: https://drive.google.com/file/d/1at4mSNNPRaIEU7sagzhm379e_Xd6K8L3/view 
 
 ## 🎯 Mục tiêu dự án
 Hệ thống hướng đến việc giải quyết các nhu cầu quản lý thực tiễn, bao gồm:
